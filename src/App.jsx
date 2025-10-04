@@ -163,8 +163,8 @@ function App() {
         </p>
         <p className="text-gray-300 text-sm">
           <span className="text-teal-400">Tech Stack:</span> React, Next.js,
-          Tailwind CSS, JavaScript, Responsive Design, Firebase (auth & storage).  
-          Future backend: Java & Spring Boot.
+          Tailwind CSS, JavaScript, Responsive Design, Local Storage for Login and Sign in.  
+          Future backend: node.js.
         </p>
       </div>
     </motion.div>
@@ -221,10 +221,10 @@ function App() {
           <span className="text-teal-400">abdullahfida645@gmail.com</span>
         </p>
         <div className="flex justify-center gap-8 text-lg">
-          <a href="https://github.com/" className="hover:text-teal-400">
+          <a href="https://github.com/Abdullah-Fida/Portfolio" className="hover:text-teal-400">
             GitHub
           </a>
-          <a href="https://linkedin.com/" className="hover:text-teal-400">
+          <a href="https://www.linkedin.com/in/abdullah-fida-88423b322/" className="hover:text-teal-400">
             LinkedIn
           </a>
           <a
