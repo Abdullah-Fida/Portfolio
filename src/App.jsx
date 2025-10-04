@@ -107,6 +107,7 @@ function App() {
             { name: "CSS3", level: "90%" },
             { name: "Tailwind CSS", level: "90%" },
             { name: "Responsive Web Design", level: "95%" },
+            { name: "Github", level: "75%" },
             { name: "Java (Learning)", level: "60%" },
           ].map((skill, index) => (
             <motion.div
